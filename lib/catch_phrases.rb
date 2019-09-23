@@ -10,7 +10,9 @@ def link
 puts status = "It's Dangerous To Go Alone! Take This."
 end
 
-
+def phrase
+  puts status = "Do A Barrel Roll!"
+end
 
 describe "mario" do
   it "puts out 'It's-a me, Mario!'" do
