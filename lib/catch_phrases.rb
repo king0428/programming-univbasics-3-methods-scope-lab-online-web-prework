@@ -10,9 +10,7 @@ def link
 puts status = "It's Dangerous To Go Alone! Take This."
 end
 
-def any_phrase
- 
-end
+
 
 describe "mario" do
   it "puts out 'It's-a me, Mario!'" do
